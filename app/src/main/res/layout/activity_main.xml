@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:inputType="number"
+        android:id="@+id/regno_input"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:hint="Reg No."
+        android:gravity="center"
+        android:layout_margin="15dp"
+        />
+    <EditText
+        android:inputType="numberDecimal"
+        android:id="@+id/cgpa_input"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:hint="CGPA"
+        android:gravity="center"
+        android:layout_margin="15dp"
+        />
+    <EditText
+        android:inputType="text"
+        android:id="@+id/name_input"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:hint="Name"
+        android:gravity="center"
+        android:layout_margin="15dp"
+        />
+    <EditText
+        android:inputType="phone"
+        android:id="@+id/phn_input"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:hint="Phn no"
+        android:gravity="center"
+        android:layout_margin="15dp"
+        />
+    <Button
+        android:id="@+id/save_btn"
+        android:layout_width="120dp"
+        android:text="Save"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        />
+
+
+
+</LinearLayout>

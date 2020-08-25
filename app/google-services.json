@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476148521918",
+    "firebase_url": "https://sajalassignmentone.firebaseio.com",
+    "project_id": "sajalassignmentone",
+    "storage_bucket": "sajalassignmentone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476148521918:android:f76b586311c81672ae77ef",
+        "android_client_info": {
+          "package_name": "com.example.sajalassigmentone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476148521918-ggmh677sibgpc2qng2u6dhmkh7tqlpss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4v66ScSUZE2ATDTyVbZnc75ZW5Yw2dLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476148521918-ggmh677sibgpc2qng2u6dhmkh7tqlpss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
